@@ -1,5 +1,5 @@
 # MERGE-SORT
->>Merge Sort birleştirme sıralaması olarak bilinen ve "Divide and Conquer" (Böl ve Fethet) mantalitesine dayanan bir sorting algoritmasıdır. Lineer değildir. Lineer algoritmalara göre çok daha hızlı olduğu için genellikle çok büyük verilerde kullanılırlar. Daha hızlı olmasının sebebi Time Complexity'nin Merge Sort'da nlogn olmasıdır. Temel mantığı "en küçük parçalara ayır, birleştirirken sırala" şeklindedir.
+>>Merge Sort birleştirme sıralaması olarak bilinen ve "Divide and Conquer" (Böl ve Fethet) mantalitesine dayanan bir sorting algoritmasıdır. Lineer değildir. Lineer algoritmalara göre çok daha hızlı olduğu için genellikle çok büyük verilerde kullanılır. Daha hızlı olmasının sebebi Time Complexity'nin Merge Sort'da nlogn olmasıdır. Temel mantığı "en küçük parçalara ayır, birleştirirken sırala" şeklindedir.
 >>
 >>Worst case, Best case ve Average case için time complexity O(nlogn)'dir.
 >>
